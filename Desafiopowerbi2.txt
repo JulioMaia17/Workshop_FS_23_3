@@ -1,0 +1,16 @@
+Soluções Para Cada Gráfico
+
+1- Grafico de Colunas: Nele mostra a media de nível dos jogadores draftados em cada ano desde 2000 até 2020.
+* Nele observa-se que no ano de 2001 teve a maior media de nível registrada com 91,25 ovr.
+* Já no ano de 2019 foi registrado a pior média de nível com 72,48 ovr.
+
+2- Gráfico de Barras empilhadas: Nele foi apresentado a média do nível dos jogadores a partir de sua altura.
+* Nele e visto que a maior média se vem com jogadores com 2.21m com uma média de 87 ovr.
+* Já a menor média se vem da altura 1.78 com uma media de 76 ovr.
+
+3 - Gráfico de Pizza: Nele foi apresentado a media de nível de cada escolha de draft dos jogadores.
+* Esse gráfico foi selecionado pela pequena quantidade de colunas para serem visualizadas.
+* Percebe-se que jogadores que foram escolha de 1 round do draft possuem a maior média geral com 79 ovr.
+* Já a menor média vem dos jogadores undrafted ou não draftados com uma média de 72 ovr.
+
+OBS - Nos cartões disponíveis é possível observar a quantidade de jogadores utilizados nessa análise e q média geral desses jogadores.
